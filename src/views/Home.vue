@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Deploying Vue App with AWS S3 and AWS CloudFront" />
+    <HelloWorld msg="Deploying Vue App with AWS S3 & AWS CloudFront" />
   </div>
 </template>
 
